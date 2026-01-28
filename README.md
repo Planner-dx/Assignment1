@@ -130,7 +130,7 @@ python scripts/test_open3d_pointcloud.py
 **Screenshot:**  
 _[Include one screenshot showing both tests passing]_
 
-![Python Tests Passing](path/to/your/screenshot.png)
+![Python Tests Passing](assets/python_tests_pass.png)
 
 ---
 
@@ -209,7 +209,7 @@ ros2 launch env_check_pkg env_check.launch.py
 **Screenshot:**  
 _[Include one screenshot showing talker + listener running]_
 
-![Talker and Listener Running](path/to/your/screenshot.png)
+![Talker and Listener Running](assets/ros2_talker_listener.png)
 
 ---
 
@@ -344,7 +344,7 @@ _[Luo Daixun]_
 _[25121137g]_
 
 **Date:**  
-_[2026/1/28]_
+_[2026-01-28]_
 
 ---
 
